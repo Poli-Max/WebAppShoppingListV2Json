@@ -1,0 +1,84 @@
+﻿<Properties StartupConfiguration="{5F8DCF2B-6612-4AFD-8183-30211AB71266}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Web_220App_220Shop_220V2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Web App Shop V2/Initializer.cs">
+    <Files>
+      <File FileName="Web App Shop V2/Controllers/ProductController.cs" />
+      <File FileName="Web App Shop V2/Views/Product/GetProducts.cshtml" />
+      <File FileName="Web App Shop V2/Views/Shared/_Layout.cshtml" />
+      <File FileName="Web App Shop V2/wwwroot/js/loadProducts.js" />
+      <File FileName="Web App Shop V2/Views/Product/GetProduct.cshtml" />
+      <File FileName="Web App Shop V2/Views/Product/CreateProduct.cshtml" />
+      <File FileName="Web App Shop V2/appsettings.json" />
+      <File FileName="Web App Shop V2/Controllers/AccountController.cs" />
+      <File FileName="Web App Shop V2/Views/Account/Login.cshtml" />
+      <File FileName="Web App Shop V2/Views/Account/Register.cshtml" />
+      <File FileName="Web App Shop V2/Program.cs" />
+      <File FileName="Web App Shop V2.DAL/AplicationDbContext.cs" />
+      <File FileName="Web App Shop V2.DAL/Repositoties/UserRepository.cs" />
+      <File FileName="Web App Shop V2.Domain/Enum/StatusCode.cs" />
+      <File FileName="Web App Shop V2.Domain/Enum/TypeUser.cs" />
+      <File FileName="Web App Shop V2.Domain/Helper/EncryptionPassword.cs" />
+      <File FileName="Web App Shop V2.Domain/Response/BaseResponse.cs" />
+      <File FileName="Web App Shop V2.Domain/ViewModels/Account/LoginViewModel.cs" />
+      <File FileName="Web App Shop V2.Service/Implementation/AccountService.cs" />
+      <File FileName="Web App Shop V2.Service/Interfaces/IAccountService.cs" />
+      <File FileName="Web App Shop V2.Service/Interfaces/IProductService.cs" />
+      <File FileName="Web App Shop V2.Service/Implementation/ProductService.cs" />
+      <File FileName="Web App Shop V2/Views/Home/Index.cshtml" />
+      <File FileName="Web App Shop V2/Views/Product/EditProduct.cshtml" />
+      <File FileName="Web App Shop V2/Initializer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Web App Shop V2" expanded="True">
+            <Node name="DAL" expanded="True">
+              <Node name="Web App Shop V2.DAL" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+                <Node name="Repositoties" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Domain" expanded="True">
+              <Node name="Web App Shop V2.Domain" expanded="True">
+                <Node name="Enum" expanded="True" />
+                <Node name="Helper" expanded="True" />
+                <Node name="Models" expanded="True" />
+                <Node name="Response" expanded="True" />
+                <Node name="ViewModels" expanded="True">
+                  <Node name="Account" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Service" expanded="True">
+              <Node name="Web App Shop V2.Service" expanded="True">
+                <Node name="Dependencies" expanded="True" />
+                <Node name="Implementation" expanded="True" />
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Web App Shop V2" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Product" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+              </Node>
+              <Node name="Initializer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

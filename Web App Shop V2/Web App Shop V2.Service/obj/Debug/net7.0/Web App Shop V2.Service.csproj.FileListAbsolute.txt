@@ -1,0 +1,17 @@
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Service/bin/Debug/net7.0/Web App Shop V2.Service.deps.json
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Service/bin/Debug/net7.0/Web App Shop V2.Service.dll
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Service/bin/Debug/net7.0/Web App Shop V2.Service.pdb
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Service/bin/Debug/net7.0/Web App Shop V2.DAL.dll
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Service/bin/Debug/net7.0/Web App Shop V2.Domain.dll
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Service/bin/Debug/net7.0/Web App Shop V2.DAL.pdb
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Service/bin/Debug/net7.0/Web App Shop V2.Domain.pdb
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Service/obj/Debug/net7.0/Web App Shop V2.Service.csproj.AssemblyReference.cache
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Service/obj/Debug/net7.0/Web App Shop V2.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Service/obj/Debug/net7.0/Web App Shop V2.Service.AssemblyInfoInputs.cache
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Service/obj/Debug/net7.0/Web App Shop V2.Service.AssemblyInfo.cs
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Service/obj/Debug/net7.0/Web App Shop V2.Service.csproj.CoreCompileInputs.cache
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Service/obj/Debug/net7.0/Web App Shop V2.Service.csproj.CopyComplete
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Service/obj/Debug/net7.0/Web App Shop V2.Service.dll
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Service/obj/Debug/net7.0/refint/Web App Shop V2.Service.dll
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Service/obj/Debug/net7.0/Web App Shop V2.Service.pdb
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Service/obj/Debug/net7.0/ref/Web App Shop V2.Service.dll

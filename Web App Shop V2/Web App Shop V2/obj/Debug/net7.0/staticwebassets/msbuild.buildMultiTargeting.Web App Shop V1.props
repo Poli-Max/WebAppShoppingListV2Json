@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Web App Shop V1.props" />
+</Project>

@@ -1,0 +1,88 @@
+﻿@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+
+    // Получение JSON-строки из ViewData
+    var productListJson = ViewData["ProductListJson"] as string;
+    var productList = Newtonsoft.Json.JsonConvert.DeserializeObject<List<Web_App_Shop_V2.Domain.Models.Product>>(productListJson);
+}
+
+<style>
+    .card-buttons-group {
+        text-align: right;
+        padding: 10px;
+    }
+</style>
+
+<div style="padding: 10px;"></div>
+<div class="row">
+    <div class="col-md-12 text-right" style="margin-bottom: 10px;">
+        @if (User.IsInRole("admin"))
+        {
+            <a asp-controller="Product" asp-action="CreateProduct" class="btn btn-success">Добавить новый продукт</a>
+        }
+    </div>
+</div>
+
+<form method="get" action="@Url.Action("GetProductsSort", "Product")">
+    <div class="form-inline" style="margin-bottom: 10px;">
+        <label class="control-label">Имя продукта: </label>
+        <input type="text" name="productName" class="form-control" />
+    </div>
+    <div class="form-inline">
+        <label class="control-label">Минимальная цена: </label>
+        <input type="number" name="minPrice" class="form-control" style="max-width: 200px; margin-right: 10px;">
+        <label class="control-label">Максимальная цена: </label>
+        <input type="number" name="maxPrice" class="form-control" style="max-width: 200px; margin-right: 10px;">
+        <button type="submit" class="btn btn-primary btn-block" style=" margin-top: 10px;">Применить</button>
+    </div>
+</form>
+
+@if (productList != null && productList.Count > 0)
+{
+    <h3 class="mb-0 text-center ParagraphHome" style=" margin-top: 10px; margin-bottom: 20px;">Список продуктов</h3>
+    <div class="row">
+        @foreach (var product in Model)
+        {
+            <div class="col-md-12" style="margin-bottom: 20px;">
+                <div class="card">
+                    <div class="row g-0">
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">@product.name</h5>
+                                <small class="text-muted">ID: @product.id</small>
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item">Стоимость: @product.price ₽</li>
+                                </ul>
+                                <a asp-action="GetProduct" asp-route-id="@product.id" class="btn btn-primary">Подробнее</a>
+                                @if (User.IsInRole("admin"))
+                                {
+                                    <hr />
+                                    <a asp-controller="Product" asp-action="DeleteProduct" asp-route-id="@product.id" class="btn btn-danger">Удалить</a>
+                                    <a asp-controller="Product" asp-action="EditProduct" asp-route-id="@product.id" class="btn btn-primary">Изменить</a>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <h3 class="mb-0 text-center ParagraphHome" style=" margin-top: 10px; margin-bottom: 20px;">Список продуктов пуст</h3>
+}
+
+<script>document.getElementById("applyFilterButton").addEventListener("click", function () {
+        var productName = document.getElementById("productName").value;
+        var minPrice = document.getElementById("minPrice").value;
+        var maxPrice = document.getElementById("maxPrice").value;
+
+        var url = "/Product/GetProductsSort?" +
+            "productName=" + encodeURIComponent(productName) +
+            "&minPrice=" + encodeURIComponent(minPrice) +
+            "&maxPrice=" + encodeURIComponent(maxPrice);
+
+        window.location.href = url;
+    });</script>

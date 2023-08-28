@@ -1,0 +1,47 @@
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/appsettings.Development.json
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/appsettings.json
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/Web App Shop V1.staticwebassets.runtime.json
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/NLog.config
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/Web App Shop V1
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/Web App Shop V1.deps.json
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/Web App Shop V1.runtimeconfig.json
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/Web App Shop V1.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/Web App Shop V1.pdb
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/NLog.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/NLog.Extensions.Logging.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/NLog.Web.AspNetCore.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/Npgsql.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/Web App Shop V1.DAL.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/Web App Shop V1.Domain.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/Web App Shop V1.Service.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/Web App Shop V1.DAL.pdb
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/Web App Shop V1.Domain.pdb
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/Web App Shop V1.Service.pdb
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/Web App Shop V1.csproj.AssemblyReference.cache
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/Web App Shop V1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/Web App Shop V1.AssemblyInfoInputs.cache
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/Web App Shop V1.AssemblyInfo.cs
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/Web App Shop V1.csproj.CoreCompileInputs.cache
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/Web App Shop V1.MvcApplicationPartsAssemblyInfo.cache
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/Web App Shop V1.RazorAssemblyInfo.cache
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/Web App Shop V1.RazorAssemblyInfo.cs
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/staticwebassets/msbuild.Web App Shop V1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/staticwebassets/msbuild.build.Web App Shop V1.props
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/staticwebassets/msbuild.buildMultiTargeting.Web App Shop V1.props
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/staticwebassets/msbuild.buildTransitive.Web App Shop V1.props
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/staticwebassets.pack.json
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/staticwebassets.build.json
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/staticwebassets.development.json
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/scopedcss/bundle/Web App Shop V1.styles.css
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/scopedcss/projectbundle/Web App Shop V1.bundle.scp.css
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/Web App Shop V1.csproj.CopyComplete
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/Web App Shop V1.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/refint/Web App Shop V1.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/Web App Shop V1.pdb
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/Web App Shop V1.genruntimeconfig.cache
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/obj/Release/net7.0/ref/Web App Shop V1.dll

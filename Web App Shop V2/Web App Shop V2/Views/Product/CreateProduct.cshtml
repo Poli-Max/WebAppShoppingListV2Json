@@ -1,0 +1,28 @@
+﻿@model Web_App_Shop_V2.Domain.ViewModels.Product.ProductViewModels
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h1>Создание нового продукта</h1>
+
+<form autocomplete="on" method="post" asp-controller="Product" asp-action="CreateProduct" enctype="multipart/form-data">
+    <input asp-for="id" hidden />
+    <div class="form-group">
+        <label asp-for="name"></label>
+        <input asp-for="name" class="form-control" />
+        <span asp-validation-for="name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="description"></label>
+        <input asp-for="description" class="form-control" />
+        <span asp-validation-for="description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="price"></label>
+        <input asp-for="price" class="form-control" />
+        <span asp-validation-for="price" class="text-danger"></span>
+    </div>
+    <button class="btn btn-primary btn-lg float-right" type="submit">Создать</button>
+</form>

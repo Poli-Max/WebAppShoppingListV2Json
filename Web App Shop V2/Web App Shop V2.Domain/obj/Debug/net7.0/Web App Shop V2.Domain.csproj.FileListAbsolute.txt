@@ -1,0 +1,12 @@
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Domain/bin/Debug/net7.0/Web App Shop V2.Domain.deps.json
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Domain/bin/Debug/net7.0/Web App Shop V2.Domain.dll
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Domain/bin/Debug/net7.0/Web App Shop V2.Domain.pdb
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Domain/obj/Debug/net7.0/Web App Shop V2.Domain.csproj.AssemblyReference.cache
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Domain/obj/Debug/net7.0/Web App Shop V2.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Domain/obj/Debug/net7.0/Web App Shop V2.Domain.AssemblyInfoInputs.cache
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Domain/obj/Debug/net7.0/Web App Shop V2.Domain.AssemblyInfo.cs
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Domain/obj/Debug/net7.0/Web App Shop V2.Domain.csproj.CoreCompileInputs.cache
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Domain/obj/Debug/net7.0/Web App Shop V2.Domain.dll
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Domain/obj/Debug/net7.0/refint/Web App Shop V2.Domain.dll
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Domain/obj/Debug/net7.0/Web App Shop V2.Domain.pdb
+/Users/maksimpoletaev/Projects/Web App Shop V2/Web App Shop V2.Domain/obj/Debug/net7.0/ref/Web App Shop V2.Domain.dll

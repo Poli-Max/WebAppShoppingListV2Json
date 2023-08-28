@@ -1,0 +1,22 @@
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/publish/Web App Shop V1
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/publish/appsettings.json
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/publish/NLog.config
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/publish/Web App Shop V1.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/publish/Web App Shop V1.deps.json
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/publish/Web App Shop V1.runtimeconfig.json
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/publish/Web App Shop V1.pdb
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/publish/Microsoft.EntityFrameworkCore.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/publish/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/publish/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/publish/NLog.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/publish/NLog.Extensions.Logging.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/publish/NLog.Web.AspNetCore.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/publish/Npgsql.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/publish/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/publish/Web App Shop V1.DAL.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/publish/Web App Shop V1.Domain.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/publish/Web App Shop V1.Service.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/publish/Web App Shop V1.DAL.pdb
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/publish/Web App Shop V1.Domain.pdb
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1/bin/Release/net7.0/publish/Web App Shop V1.Service.pdb

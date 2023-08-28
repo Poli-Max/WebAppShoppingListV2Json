@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>Web_App_Shop_V2.Domain</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Models\" />
+    <None Remove="Response\" />
+    <None Remove="Enum\" />
+    <None Remove="ViewModels\" />
+    <None Remove="ViewModels\Product\" />
+    <None Remove="Helper\" />
+    <None Remove="ViewModels\Account\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Response\" />
+    <Folder Include="Enum\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="ViewModels\Product\" />
+    <Folder Include="Helper\" />
+    <Folder Include="ViewModels\Account\" />
+  </ItemGroup>
+</Project>

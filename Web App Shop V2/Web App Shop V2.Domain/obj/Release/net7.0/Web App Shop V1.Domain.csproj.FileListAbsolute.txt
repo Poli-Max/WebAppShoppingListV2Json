@@ -1,0 +1,12 @@
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1.Domain/bin/Release/net7.0/Web App Shop V1.Domain.deps.json
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1.Domain/bin/Release/net7.0/Web App Shop V1.Domain.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1.Domain/bin/Release/net7.0/Web App Shop V1.Domain.pdb
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1.Domain/obj/Release/net7.0/Web App Shop V1.Domain.csproj.AssemblyReference.cache
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1.Domain/obj/Release/net7.0/Web App Shop V1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1.Domain/obj/Release/net7.0/Web App Shop V1.Domain.AssemblyInfoInputs.cache
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1.Domain/obj/Release/net7.0/Web App Shop V1.Domain.AssemblyInfo.cs
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1.Domain/obj/Release/net7.0/Web App Shop V1.Domain.csproj.CoreCompileInputs.cache
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1.Domain/obj/Release/net7.0/Web App Shop V1.Domain.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1.Domain/obj/Release/net7.0/refint/Web App Shop V1.Domain.dll
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1.Domain/obj/Release/net7.0/Web App Shop V1.Domain.pdb
+/Users/maksimpoletaev/Projects/Web App Shop V1/Web App Shop V1.Domain/obj/Release/net7.0/ref/Web App Shop V1.Domain.dll

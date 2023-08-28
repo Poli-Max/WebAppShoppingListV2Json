@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+
+    // Получение JSON-строки из ViewData
+    var productJson = ViewData["ProductJson"] as string;
+    var product = Newtonsoft.Json.JsonConvert.DeserializeObject<Web_App_Shop_V2.Domain.Models.Product>(productJson);
+}
+
+<div style="padding: 10px;"></div>
+<div class="card mb-3">
+    <div class="row g-0">
+        <div class="col-md-4">
+            <img src="https://www.paperseal.lt/media/wysiwyg/productimages/K312221_2.jpg"
+                 class="img-fluid rounded-start rounded" alt="@product.name">
+        </div>
+        <div class="col-md-4">
+            <div class="card-body">
+                <h5 class="card-title text-center">@product.name</h5>
+                <small class="text-muted">ID: @product.id</small>
+                <p class="card-text"><b>Стоимость: </b>@product.price ₽</p>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card-body">
+                <p class="card-text"><b>Описание: </b>@product.description</p>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{72A432BD-4E69-4F5A-93E5-E1DEEDB58D46}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Web App Shop V2.csproj">
+    <Files>
+      <File FileName="../../../.nuget/packages/nlog.config/4.7.15/contentFiles/any/any/NLog.config" Line="1" Column="1" />
+      <File FileName="Web App Shop V2.csproj" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Web App Shop V2" expanded="True">
+            <Node name="Web App Shop V2" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Web_220App_220Shop_220V2 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
